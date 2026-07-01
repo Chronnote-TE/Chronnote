@@ -26,8 +26,14 @@
 
 [![Website](https://img.shields.io/badge/Website-chronnote.top-7A5B2E?style=flat-square)](https://chronnote.top)
 [![Download](https://img.shields.io/badge/Download-Chronnote-2F4F7F?style=flat-square)](https://chronnote.top)
-[![Contact](https://img.shields.io/badge/Contact-Email-4F7A5B?style=flat-square)](mailto:1155181470@link.cuhk.edu.hk)
-[![QQ](https://img.shields.io/badge/QQ-Community-3F6DB3?style=flat-square)](https://qm.qq.com/q/pAeSI78uVa)
+[![Docs](https://img.shields.io/badge/Docs-Overview-4F7A5B?style=flat-square)](docs/overview.md)
+[![Community](https://img.shields.io/badge/Community-QQ-3F6DB3?style=flat-square)](https://qm.qq.com/q/pAeSI78uVa)
+[![Contact](https://img.shields.io/badge/Contact-Email-8A6A2F?style=flat-square)](mailto:1155181470@link.cuhk.edu.hk)
+
+[![Local First](https://img.shields.io/badge/Local--first-knowledge%20workspace-2B2721?style=flat-square)](docs/local-first.md)
+[![AI Native](https://img.shields.io/badge/AI--native-Chron%20Engine-5A5FA8?style=flat-square)](docs/chron-engine.md)
+[![Desktop First](https://img.shields.io/badge/Desktop--first-macOS%20%7C%20Windows-C28A2C?style=flat-square)](https://chronnote.top)
+[![Public Docs](https://img.shields.io/badge/Public%20docs-no%20source%20code-725D43?style=flat-square)](#chronnote-%E6%98%AF%E4%BB%80%E4%B9%88)
 
 </div>
 
