@@ -1,0 +1,15 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chronnote</title>
+  <desc id="desc">Chronnote wordmark on a warm parchment background.</desc>
+  <rect width="900" height="180" rx="8" fill="#F8F2E8"/>
+  <rect x="1" y="1" width="898" height="178" rx="7" stroke="#D9C7A8" stroke-width="2"/>
+  <path d="M88 42C66.46 42 49 59.46 49 81V99C49 120.54 66.46 138 88 138H112C133.54 138 151 120.54 151 99V81C151 59.46 133.54 42 112 42H88Z" fill="#2B2721"/>
+  <path d="M78 72H122M78 90H122M78 108H108" stroke="#E8D8B9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M104 48C104 48 119 69 119 90C119 111 104 132 104 132" stroke="#C28A2C" stroke-width="4" stroke-linecap="round"/>
+  <text x="190" y="92" fill="#2B2721" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="62" font-weight="500">Chronnote</text>
+  <text x="193" y="126" fill="#725D43" font-family="Inter, PingFang SC, system-ui, sans-serif" font-size="18">AI-powered local-first knowledge workspace</text>
+  <path d="M746 62H824M746 90H852M746 118H804" stroke="#B8A17B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="722" cy="62" r="5" fill="#B24A3F"/>
+  <circle cx="722" cy="90" r="5" fill="#3F6DB3"/>
+  <circle cx="722" cy="118" r="5" fill="#4F7A5B"/>
+</svg>

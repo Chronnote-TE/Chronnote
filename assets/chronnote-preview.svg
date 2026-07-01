@@ -1,0 +1,36 @@
+<svg width="980" height="560" viewBox="0 0 980 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chronnote workspace preview</title>
+  <desc id="desc">A stylized Chronnote workspace preview with notes, PDF reading, whiteboard, todos, and AI context.</desc>
+  <rect width="980" height="560" rx="8" fill="#F6EFE3"/>
+  <rect x="28" y="28" width="924" height="504" rx="8" fill="#FBF7EF" stroke="#D8C7AA"/>
+  <rect x="28" y="28" width="168" height="504" rx="8" fill="#EFE6D6"/>
+  <path d="M56 68H160M56 92H128" stroke="#342C23" stroke-width="8" stroke-linecap="round"/>
+  <rect x="54" y="136" width="110" height="26" rx="5" fill="#E3D6C3"/>
+  <rect x="54" y="178" width="86" height="24" rx="5" fill="#F6EFE3"/>
+  <rect x="54" y="218" width="118" height="24" rx="5" fill="#F6EFE3"/>
+  <rect x="54" y="258" width="94" height="24" rx="5" fill="#F6EFE3"/>
+  <rect x="224" y="64" width="292" height="116" rx="8" fill="#FFFDF8" stroke="#DFD2BD"/>
+  <rect x="224" y="64" width="5" height="116" rx="2.5" fill="#B24A3F"/>
+  <path d="M250 96H438M250 122H474M250 148H384" stroke="#3B3128" stroke-width="9" stroke-linecap="round"/>
+  <rect x="548" y="64" width="184" height="204" rx="8" fill="#FFFDF8" stroke="#DFD2BD"/>
+  <rect x="572" y="92" width="136" height="14" rx="3" fill="#3F6DB3" opacity=".65"/>
+  <rect x="572" y="128" width="116" height="10" rx="3" fill="#CBB99B"/>
+  <rect x="572" y="152" width="136" height="10" rx="3" fill="#CBB99B"/>
+  <rect x="572" y="176" width="102" height="10" rx="3" fill="#CBB99B"/>
+  <rect x="572" y="216" width="82" height="18" rx="4" fill="#E8D8B9"/>
+  <rect x="760" y="64" width="148" height="204" rx="8" fill="#2B2721"/>
+  <path d="M788 102H874M788 128H852M788 154H886" stroke="#EFE6D6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M788 204H854" stroke="#C28A2C" stroke-width="8" stroke-linecap="round"/>
+  <rect x="224" y="212" width="292" height="148" rx="8" fill="#FFFDF8" stroke="#DFD2BD"/>
+  <rect x="224" y="212" width="5" height="148" rx="2.5" fill="#4F7A5B"/>
+  <circle cx="286" cy="286" r="32" fill="#F1E7D7" stroke="#B8A17B"/>
+  <circle cx="392" cy="264" r="28" fill="#F1E7D7" stroke="#B8A17B"/>
+  <circle cx="428" cy="324" r="24" fill="#F1E7D7" stroke="#B8A17B"/>
+  <path d="M318 280L364 270M407 289L419 303" stroke="#8F7A58" stroke-width="3"/>
+  <rect x="548" y="300" width="360" height="140" rx="8" fill="#FFFDF8" stroke="#C28A2C"/>
+  <path d="M580 338H734M580 366H858M580 394H804" stroke="#3B3128" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="856" cy="338" r="12" fill="#C28A2C"/>
+  <path d="M250 418H472M250 446H412M250 474H496" stroke="#7A6954" stroke-width="8" stroke-linecap="round"/>
+  <rect x="224" y="394" width="292" height="98" rx="8" fill="#FFFDF8" stroke="#DFD2BD"/>
+  <rect x="224" y="394" width="5" height="98" rx="2.5" fill="#C28A2C"/>
+</svg>
