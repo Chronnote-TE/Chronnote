@@ -1,10 +1,15 @@
 <div align="center">
 
 <a href="https://chronnote.top">
-  <img alt="Chronnote" src="assets/chronnote-wordmark.svg" width="680">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img alt="Chronnote" src="assets/logo.png" width="96" height="96">
+  </picture>
 </a>
 
 <br />
+
+# Chronnote
 
 **AI 驱动的本地优先知识笔记应用**
 
@@ -83,4 +88,3 @@ Chronnote 正在围绕桌面端深度知识工作持续打磨：
 Chronnote is a local-first, AI-powered knowledge workspace for notes, PDFs, whiteboards, todos, and long-term thinking. This repository is a public documentation and product-introduction hub. It does not include Chronnote source code.
 
 Start from [the official website](https://chronnote.top) or read the [English overview](docs/overview-en.md).
-
