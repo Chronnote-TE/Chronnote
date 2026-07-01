@@ -10,8 +10,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chronnote-title-dark.svg">
-  <img alt="Chronnote" src="assets/chronnote-title.svg" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chronnote-title-dark.png">
+  <img alt="Chronnote" src="assets/chronnote-title.png" width="420">
 </picture>
 
 <br />
