@@ -9,6 +9,13 @@
 
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chronnote-title-dark.svg">
+  <img alt="Chronnote" src="assets/chronnote-title.svg" width="420">
+</picture>
+
+<br />
+
 **AI 驱动的本地优先知识笔记应用**
 
 <br />
